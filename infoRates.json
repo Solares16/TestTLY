@@ -1,19 +1,19 @@
 {
     "rate30Year": {
-        "today": "3.125",
+        "today": "10",
         "yesterday": "3.125",
         "lastweek": "3.125",
         "lastmonth": "3.125",
         "lastyear": "3.625",
-        "icon": "greenDown"
+        "icon": "redUp"
     },
     "rate15Year": {
-        "today": "2.375",
+        "today": "15",
         "yesterday": "2.5",
         "lastweek": "2.375",
         "lastmonth": "2.375",
         "lastyear": "3",
-        "icon": "greenDown"
+        "icon": "redUp"
     },
     "lastUpdate": "2021-07-15T10:00:40.9390148Z"
 }

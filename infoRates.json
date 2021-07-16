@@ -1,6 +1,6 @@
 {
     "rate30Year": {
-        "today": "70",
+        "today": "3.125",
         "yesterday": "3.125",
         "lastweek": "3.125",
         "lastmonth": "3.125",
@@ -8,7 +8,7 @@
         "icon": "blackNoChange"
     },
     "rate15Year": {
-        "today": "40",
+        "today": "2.5",
         "yesterday": "2.5",
         "lastweek": "2.375",
         "lastmonth": "2.375",

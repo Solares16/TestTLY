@@ -5,7 +5,7 @@
         "lastweek": "3.125",
         "lastmonth": "3.125",
         "lastyear": "3.625",
-        "icon": "blackNoChange"
+        "icon": "greenDown"
     },
     "rate15Year": {
         "today": "2.375",
@@ -13,7 +13,7 @@
         "lastweek": "2.375",
         "lastmonth": "2.375",
         "lastyear": "3",
-        "icon": "blackNoChange"
+        "icon": "greenDown"
     },
     "lastUpdate": "2021-07-15T10:00:40.9390148Z"
 }
